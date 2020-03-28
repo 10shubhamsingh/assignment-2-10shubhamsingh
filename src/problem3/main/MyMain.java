@@ -19,10 +19,10 @@ public class MyMain {
     MyPriorityQueue queue = new MyPriorityQueue();
     queue.enqueue(new Student ("Shubham",10));
     queue.enqueue(new Student("Shikhar,49));
-     queue.enqueue(new Student("Kshitij",31)):
-     queue.enqueue(new Student("Abhishek",45));
-     queue.enqueue(new Student("Leo",36));
-     queue.enqueue(new Student("Arya",27));
+    queue.enqueue(new Student("Kshitij",31)):
+    queue.enqueue(new Student("Abhishek",45));
+    queue.enqueue(new Student("Leo",36));
+    queue.enqueue(new Student("Arya",27));
                               
      queue.show();
      queue.dequeue();
